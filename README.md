@@ -1,6 +1,6 @@
 # 6. Домашнее задание к лекции «Жизненный цикл и работа с HTTP»
 
-![](./pic/Heroku.png) [[Heroku](https://ra-hw-6_lifecycle-http_2-crud-backend.herokuapp.com/)]
+![](./pic/Heroku.png) [[Heroku](https://ra-6-lifecycle-2-crud-backend.herokuapp.com/)]
 
 ---
 
